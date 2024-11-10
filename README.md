@@ -36,4 +36,4 @@ npm -v
 Visit `http://localhost:3000` to see your new React app!
 
 ### Resources
-- [ReactJS Docs](https://reactjs.org/docs/getting-started.html) 
+- [ReactJS Docs](https://reactjs.org/docs/getting-started.html)
